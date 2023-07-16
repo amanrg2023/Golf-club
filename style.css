@@ -9,7 +9,7 @@
 }
 
 body,html{
-
+   
     height: 100%;
     width: 100%;
 }
@@ -64,12 +64,13 @@ video{
 
 #main{
     position: relative;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.527);
 }
 
 /* pages no 1 working */
 
 #page-01{
+    
     height: 100vh;
     width: 100%;
     position: relative;
